@@ -1,6 +1,6 @@
 # chatbot
 Free chatbot for website - Free, open-source AI chatbot widget for your website. Easy to embed, customizable, and privacy - friendly.
 <br>
-Author developer - bl chopta
+Author developer - bl chopra
 <br>
 Technology - PHP Laravel
